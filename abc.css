@@ -1,0 +1,35 @@
+body{
+	font-family: 'Patrick Hand', cursive;
+	margin:0px;
+	padding:0px;
+}
+h1{
+		background-color:red;
+		font-size:40px;
+		color:white;
+}
+
+p{
+	background-color:red;
+	color:white;
+	font-size:22px;
+}
+
+.p1{
+	background-color:blue;
+	color:white;
+	font-size:28px;
+	font-weight:800;
+}
+
+.p2{
+	background-color:green;
+	color:white;
+	font-size:35px;
+}
+
+.p3{
+	background-color:black;
+	color:white;
+	font-size:30px;
+}

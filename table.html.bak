@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Table Tag in HTML.</title>
+
+	<style>
+		
+		body{
+			background-color:#CCD1E4;
+		}
+	
+		table, th, td {
+			border:1.5px solid #1C6DD0;
+			border-collapse:collapse;
+			font-size:20px;
+			text-align:center;
+		}
+	</style>
+
+</head>
+<body>
+	<h1>Table Tag in HTML.</h1>
+	
+	<table> 
+		<tr>
+			<th>Name</th>
+			<th>Number</th>
+			<th>Email</th>   
+		</tr>
+		
+		<tr>
+			<td>Karan</td>
+			<td>9687574120</td>
+			<td>karan@gmail.com</td>
+		</tr>
+		
+		<tr>
+			<td>Jatin</td>
+			<td>9687574121</td>
+			<td>jatin@gmail.com</td>
+		</tr>
+		
+		<tr>
+			<td>Rahul</td>
+			<td>9687574122</td>
+			<td>rahul@gmail.com</td>
+		</tr>
+		
+		<tr>
+			<td>Rishav</td>
+			<td>9687574123</td>
+			<td>rishav@gmail.com</td>
+		</tr>
+		
+	</table>
+	
+	<h2>Anchor Tag in HTML.</h2>
+		<a href="https://colorhunt.co/palettes/">Click Here...</a>
+		
+	<h2>Anchor Tag in HTML.</h2>
+		<ul>
+			<li><a href="https://www.facebook.com/">Facebook</a></li>
+			<li><a href="https://www.youtube.com/" target="_blank" >YouTube</a></li>
+			<li><a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
+		</ul>
+		
+		<p>dffohe fijjigfr oirgjprg erijer sdsdoj efjwe Click Here... djiofoidfj rweijgvr eokve 
+		</p>
+	
+</body>
+</html>
